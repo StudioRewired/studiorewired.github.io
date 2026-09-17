@@ -29,11 +29,12 @@ body { background-color:#000000; padding:0;  margin: 0; }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
 .textstyle4 { font-size:12pt; font-family:Georgia, serif; color:#FFFFFF; text-shadow: 2px 2px 2px #000000;  white-space: nowrap; }
 .menustyle3 { position:absolute; width:64px; height:38px; left:72px;  }
-.menustyle4 { position:absolute; width:83px; height:38px; left:136px;  }
-.menustyle5 { position:absolute; width:63px; height:38px; left:219px;  }
+.menustyle4 { position:absolute; width:69px; height:38px; left:136px;  }
+.menustyle5 { position:absolute; width:83px; height:38px; left:205px;  }
+.menustyle6 { position:absolute; width:63px; height:38px; left:288px;  }
 .textstyle5 { font-size:12pt; font-family:Georgia, serif; color:#000000;  white-space: nowrap; }
 .textstyle6 { font-size:12pt; font-family:Georgia, serif; color:#FFFFFF;  white-space: nowrap; }
-#placeh_e4bf9ac { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:101%; min-height:200px; background-color:#000000; background-position:top left; background-repeat:repeat; border-top: 2px solid #000000; border-left: none; border-right: none; border-bottom: 2px solid #000000;  }
+#placeh_e4bf9ac { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:200px; background-color:#000000; background-position:top left; background-repeat:repeat; border-top: 2px solid #000000; border-left: none; border-right: none; border-bottom: 2px solid #000000;  }
 #container_6e9e2c54 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:20px 0px 0px 0px;width:50%; min-height:150px; background-color:#FFFFFF; background: linear-gradient(to bottom, #FEAFAF, #FFFFFF); border: 2px solid #404040;  }
 #container_6e9e2c54_padding { margin: 10px; display: block;  }
 .textstyle7 { font-size:12pt; font-family:Georgia, serif; color:#000000;  }
